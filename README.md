@@ -1,4 +1,4 @@
-# Employee-crud folder is for Angular Frontend
+Employee-crud folder is for Angular Frontend
 # employee folder is for spring boot backend
 # Clone the repository
 # Go to Employee-crud folder and open cmd and type ng install

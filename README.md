@@ -15,3 +15,5 @@ Open employee folder in spring tool suite or run it to start backend server
 Open browser and type http://localhost:4200/
 
 Also I have attached screenshots, you can refer that
+
+I have not written unit test cases, so coverage in codegrip analysis is 0%.
